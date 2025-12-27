@@ -1,65 +1,126 @@
-<h1 align="center">Hi 👋, I'm Huzaifa Shamim Ahmad</h1>
-<h3 align="center">Microsoft Intune | Endpoint Management | IT Support (L2 Aspirant)</h3>
+<h1 align="center">Huzaifa Shamim Ahmad</h1>
+<p align="center">
+<b>IT Support | Microsoft Intune | Endpoint & System Administration</b>
+</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Microsoft+Intune+%7C+Endpoint+Management;IT+Support+L1+%E2%86%92+L2+Journey;Windows+10+%7C+11+Troubleshooting;Application+Deployment+%26+Security;Always+Learning+Enterprise+IT&center=true&width=750">
+<img src="https://readme-typing-svg.herokuapp.com?lines=IT+Support+%7C+Microsoft+Intune;Endpoint+Management+%26+Autopilot;Application+Deployment+(MSI+%2F+Win32);Windows+10+%26+11+Administration;Hands-on+Projects+%26+Continuous+Learning&center=true&width=820">
 </p>
 
 ---
 
-## 👨‍💻 Professional Summary
+## 🎯 Professional Objective
 
-* 🎓 TYBSc IT student (Mumbai University)
-* 🖥️ Hands-on with **Microsoft Intune** (MSI app deployment, detection rules, assignments)
-* 🔐 Strong understanding of **endpoint security & device compliance**
-* ⚙️ Experience in **Windows troubleshooting, software deployment & user support**
-* 🌱 Learning **Cloud, Intune advanced policies & IT automation**
+Motivated IT graduate with hands-on experience in **Microsoft Intune, Windows Autopilot, application deployment, and endpoint management**, along with a strong foundation in **web development and problem-solving projects**.
+Seeking an **entry-level IT Support / Intune / System Administration** role to contribute to enterprise device management, endpoint security, and IT operations.
 
 ---
 
-## 🛠️ Core Skills
+## 🧠 Technical Skills
 
-**Endpoint & IT Support**
+### Endpoint & System Administration
 
 * Microsoft Intune (Endpoint Manager)
-* Application Deployment (MSI / EXE)
-* Device Compliance & Policies
-* Windows 10 / 11 Support
-* Basic PowerShell
+* Windows Autopilot
+* Application Packaging & Deployment (MSI, Win32 `.intunewin`)
+* Endpoint Security Policies
+* Device Configuration & Compliance Policies
+* Azure Active Directory (Basic)
+* Windows 10 & Windows 11 Administration
 
-**Web & Technical**
+### Programming & Web
 
-* HTML, CSS, JavaScript
-* Node.js, MongoDB
-* Git & GitHub
-* Documentation & Reporting
+* JavaScript, Python
+* HTML5, CSS3
+* React (Basic)
+* Node.js (Basic)
+
+### Databases
+
+* MySQL
+* MongoDB (Basic)
 
 ---
 
-## 📂 Highlighted Projects
+## 🧩 Projects
 
-🔹 **Microsoft Intune – MSI Application Deployment (Notepad++)**
-✔ Silent Install
-✔ Detection Rules
-✔ Assignments
-✔ Troubleshooting
+### 🔹 Microsoft Intune – MSI Application Deployment (Notepad++)
 
-🔹 **Endpoint Troubleshooting Case Studies**
-✔ User issues
-✔ App failures
-✔ Device sync errors
+* Deployed **Notepad++ MSI application** using Microsoft Intune
+* Configured **silent installation**, **uninstall commands**, and **detection rules**
+* Assigned application to Azure AD device/user groups
+* Monitored deployment status and performed troubleshooting
+* Gained hands-on experience with **enterprise endpoint management**
+
+---
+
+### 🔹 Python Snake Game (DSA Based Project)
+
+* Developed an advanced **Snake Game using Python (Pygame)**
+* Implemented **wrap-around screen logic** (no boundary death)
+* Added **obstacles**, sound effects, and score tracking
+* Game over triggered only on **obstacle or self collision**
+* Converted project into a **Windows executable (.exe)**
+* Strengthened understanding of **logic building, loops, and data structures**
+
+---
+
+### 🔹 Personal Portfolio Website
+
+🌐 **Website:** [https://huzaifashamim.onrender.com](https://huzaifashamim.onrender.com)
+**Duration:** Nov 2025 – Dec 2025
+
+* Built a fully responsive personal portfolio website using **HTML5, CSS3, and JavaScript**
+* Designed clean and intuitive UI/UX to showcase skills, education, and projects
+* Optimized for mobile, tablet, and desktop devices
+* Deployed to establish a strong professional online presence
+
+---
+
+## 🎓 Education
+
+**B.Sc. in Information Technology**
+Lords Universal College
+CGPA: **7 / 10**
+
+**Higher Secondary Certificate (HSC)**
+Nagindas Khandwala College
+Percentage: **69.50%**
 
 ---
 
 ## 📜 Certifications
 
-* Google IT Support Professional – Google
-* IT Fundamentals – IBM
+* Google IT Support Professional Certificate – Google
+* Information Technology Fundamentals – IBM
+* Introduction to Computers – Microsoft
 * Python for Data Science – IBM
+* Scientific Computing with Python – freeCodeCamp
 
 ---
 
-📍 **Location:** Mumbai, India
-📧 **Email:** [huzaifashamim302004@gmail.com](mailto:huzaifashamim302004@gmail.com)
+## 🤝 Soft Skills
 
-⭐ *Open to Intune / IT Support opportunities*
+* Communication
+* Teamwork & Collaboration
+* Problem-Solving
+* Time Management
+* Adaptability
+* Active Listening
+* Professional Etiquette
+
+---
+
+## 🌐 Professional Links
+
+📍 **Location:** Malad, Mumbai, Maharashtra
+📧 **Email:** [huzaifashamim302004@gmail.com](mailto:huzaifashamim302004@gmail.com)
+🌐 **Portfolio:** [https://huzaifashamim.onrender.com](https://huzaifashamim.onrender.com)
+🔗 **LinkedIn:** [https://linkedin.com/in/huzaifa-shamim-ahmad](https://linkedin.com/in/huzaifa-shamim-ahmad)
+💻 **GitHub:** [https://github.com/HShamim30](https://github.com/HShamim30)
+
+---
+
+> *Focused on building real-world skills in Endpoint Management, IT Support, and Enterprise Technologies.*
+
+⭐ **Open to IT Support / Intune / System Administrator opportunities**
