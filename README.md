@@ -1,110 +1,141 @@
-```md
-# Hi there 👋, I'm Huzaifa Shamim
+<h1 align="center">Hi 👋, I'm Huzaifa Shamim</h1>
+<h3 align="center">📊 Aspiring Data Analyst | Python | SQL | Power BI | Excel | Business Intelligence</h3>
 
-## 📊 Data Analyst | Python | SQL | Power BI | Excel | Business Intelligence
-
-Welcome to my GitHub! I'm passionate about transforming raw data into meaningful insights through data analysis, visualization, and storytelling. I enjoy solving business problems using data-driven approaches and continuously learning new analytical tools and techniques.
-
----
-
-## 🚀 About Me
-
-- 🎓 Pursuing **Master of Computer Applications (MCA)**
-- 📊 Aspiring **Data Analyst**
-- 🐍 Skilled in **Python** for data analysis and automation
-- 🗄️ Strong foundation in **SQL** for querying and managing databases
-- 📈 Experienced with **Power BI** and **Excel** for interactive dashboards
-- 📉 Interested in Business Intelligence, Data Visualization, and Predictive Analytics
-- 🌱 Currently learning Machine Learning and Advanced Data Analytics
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Turning+Data+Into+Insights;Always+Learning+New+Things" />
+</p>
 
 ---
 
-## 🛠️ Skills
+## 👨‍💻 About Me
 
-### Programming
-- Python
-- SQL
+🎓 MCA Student passionate about solving business problems using data.
 
-### Data Analysis
-- Pandas
-- NumPy
+- 📊 Aspiring Data Analyst
+- 🐍 Python for Data Analysis
+- 🗄️ SQL & Database Management
+- 📈 Power BI Dashboard Development
+- 📉 Data Visualization & Storytelling
+- 🌱 Currently Learning Machine Learning & Statistics
+- 🚀 Open to Data Analyst Internship & Full-Time Opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
+
+### Libraries
+
+<p>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+</p>
+
+### BI & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 📊 Workforce Attrition Dashboard
+
+✔ Python  
+✔ Pandas  
+✔ Plotly  
+✔ Streamlit
+
 - Data Cleaning
-- Data Wrangling
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
-
-### Data Visualization
-- Power BI
-- Matplotlib
-- Plotly
-- Excel Charts
-
-### Databases
-- MySQL
-- MongoDB
-
-### Tools
-- Microsoft Excel
-- Power BI
-- Jupyter Notebook
-- VS Code
-- Git & GitHub
-
----
-
-## 📂 Featured Projects
-
-### 📊 Workforce Attrition Analysis Dashboard
-**Tools:** Python, Pandas, Plotly, Streamlit
-
-- Data Cleaning & Preprocessing
+- KPI Dashboard
 - Employee Attrition Analysis
-- Interactive Dashboard
-- KPI Monitoring
-- Risk Hotspot Identification
+- Interactive Visualizations
 
 ---
 
 ### 📈 Sales Dashboard
-**Tools:** Power BI, Excel
 
-- Sales Performance Analysis
-- Regional Insights
+✔ Power BI
+
+- Sales Analysis
 - Profit Analysis
-- Interactive Filters
 - Executive Dashboard
+- Interactive Reports
 
 ---
 
 ### 🛒 E-Commerce Data Analysis
-**Tools:** Python, SQL
 
-- Customer Segmentation
-- Revenue Analysis
+✔ Python + SQL
+
+- Customer Analysis
+- Revenue Insights
 - Product Performance
-- Sales Trends
 - Business Recommendations
 
 ---
 
-### 📉 COVID-19 Data Analysis
-**Tools:** Python, Pandas, Matplotlib
+## 📈 GitHub Stats
 
-- Data Visualization
-- Trend Analysis
-- Country-wise Comparison
-- Dashboard Creation
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HShamim30&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HShamim30&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 📚 Currently Learning
+## 🔥 GitHub Streak
 
-- Machine Learning
-- Statistics
-- Data Warehousing
-- Data Engineering Basics
-- Advanced SQL
-- Azure Data Services
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=HShamim30&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HShamim30&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=HShamim30&theme=algolia&margin-w=15"/>
+
+</p>
 
 ---
 
@@ -118,47 +149,32 @@ Welcome to my GitHub! I'm passionate about transforming raw data into meaningful
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Connect With Me
 
-<p align="center">
+<p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
-
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+> 📈 *"Data is the new oil, but insights are the real fuel."*
+
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&margin-w=15"/>
+⭐ Thanks for visiting my profile! ⭐
 </p>
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: huzaifashamim302004@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/huzaifa-shamim-ahmad/
-- 🌐 Portfolio: https://yourportfolio.com
-
----
-
-## 💬 Favorite Quote
-
-> **"Without data, you're just another person with an opinion." — W. Edwards Deming**
-
----
-
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
-```
