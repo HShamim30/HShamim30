@@ -1,126 +1,164 @@
-<h1 align="center">Huzaifa Shamim Ahmad</h1>
-<p align="center">
-<b>IT Support | Microsoft Intune | Endpoint & System Administration</b>
-</p>
+```md
+# Hi there 👋, I'm Huzaifa Shamim
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=IT+Support+%7C+Microsoft+Intune;Endpoint+Management+%26+Autopilot;Application+Deployment+(MSI+%2F+Win32);Windows+10+%26+11+Administration;Hands-on+Projects+%26+Continuous+Learning&center=true&width=820">
-</p>
+## 📊 Data Analyst | Python | SQL | Power BI | Excel | Business Intelligence
+
+Welcome to my GitHub! I'm passionate about transforming raw data into meaningful insights through data analysis, visualization, and storytelling. I enjoy solving business problems using data-driven approaches and continuously learning new analytical tools and techniques.
 
 ---
 
-## 🎯 Professional Objective
+## 🚀 About Me
 
-Motivated IT graduate with hands-on experience in **Microsoft Intune, Windows Autopilot, application deployment, and endpoint management**, along with a strong foundation in **web development and problem-solving projects**.
-Seeking an **entry-level IT Support / Intune / System Administration** role to contribute to enterprise device management, endpoint security, and IT operations.
+- 🎓 Pursuing **Master of Computer Applications (MCA)**
+- 📊 Aspiring **Data Analyst**
+- 🐍 Skilled in **Python** for data analysis and automation
+- 🗄️ Strong foundation in **SQL** for querying and managing databases
+- 📈 Experienced with **Power BI** and **Excel** for interactive dashboards
+- 📉 Interested in Business Intelligence, Data Visualization, and Predictive Analytics
+- 🌱 Currently learning Machine Learning and Advanced Data Analytics
 
 ---
 
-## 🧠 Technical Skills
+## 🛠️ Skills
 
-### Endpoint & System Administration
+### Programming
+- Python
+- SQL
 
-* Microsoft Intune (Endpoint Manager)
-* Windows Autopilot
-* Application Packaging & Deployment (MSI, Win32 `.intunewin`)
-* Endpoint Security Policies
-* Device Configuration & Compliance Policies
-* Azure Active Directory (Basic)
-* Windows 10 & Windows 11 Administration
+### Data Analysis
+- Pandas
+- NumPy
+- Data Cleaning
+- Data Wrangling
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
 
-### Programming & Web
-
-* JavaScript, Python
-* HTML5, CSS3
-* React (Basic)
-* Node.js (Basic)
+### Data Visualization
+- Power BI
+- Matplotlib
+- Plotly
+- Excel Charts
 
 ### Databases
+- MySQL
+- MongoDB
 
-* MySQL
-* MongoDB (Basic)
-
----
-
-## 🧩 Projects
-
-### 🔹 Microsoft Intune – MSI Application Deployment (Notepad++)
-
-* Deployed **Notepad++ MSI application** using Microsoft Intune
-* Configured **silent installation**, **uninstall commands**, and **detection rules**
-* Assigned application to Azure AD device/user groups
-* Monitored deployment status and performed troubleshooting
-* Gained hands-on experience with **enterprise endpoint management**
+### Tools
+- Microsoft Excel
+- Power BI
+- Jupyter Notebook
+- VS Code
+- Git & GitHub
 
 ---
 
-### 🔹 Python Snake Game (DSA Based Project)
+## 📂 Featured Projects
 
-* Developed an advanced **Snake Game using Python (Pygame)**
-* Implemented **wrap-around screen logic** (no boundary death)
-* Added **obstacles**, sound effects, and score tracking
-* Game over triggered only on **obstacle or self collision**
-* Converted project into a **Windows executable (.exe)**
-* Strengthened understanding of **logic building, loops, and data structures**
+### 📊 Workforce Attrition Analysis Dashboard
+**Tools:** Python, Pandas, Plotly, Streamlit
 
----
-
-### 🔹 Personal Portfolio Website
-
-🌐 **Website:** [https://huzaifashamim.onrender.com](https://huzaifashamim.onrender.com)
-**Duration:** Nov 2025 – Dec 2025
-
-* Built a fully responsive personal portfolio website using **HTML5, CSS3, and JavaScript**
-* Designed clean and intuitive UI/UX to showcase skills, education, and projects
-* Optimized for mobile, tablet, and desktop devices
-* Deployed to establish a strong professional online presence
+- Data Cleaning & Preprocessing
+- Employee Attrition Analysis
+- Interactive Dashboard
+- KPI Monitoring
+- Risk Hotspot Identification
 
 ---
 
-## 🎓 Education
+### 📈 Sales Dashboard
+**Tools:** Power BI, Excel
 
-**B.Sc. in Information Technology**
-Lords Universal College
-CGPA: **7 / 10**
+- Sales Performance Analysis
+- Regional Insights
+- Profit Analysis
+- Interactive Filters
+- Executive Dashboard
 
-**Higher Secondary Certificate (HSC)**
-Nagindas Khandwala College
-Percentage: **69.50%**
+---
+
+### 🛒 E-Commerce Data Analysis
+**Tools:** Python, SQL
+
+- Customer Segmentation
+- Revenue Analysis
+- Product Performance
+- Sales Trends
+- Business Recommendations
+
+---
+
+### 📉 COVID-19 Data Analysis
+**Tools:** Python, Pandas, Matplotlib
+
+- Data Visualization
+- Trend Analysis
+- Country-wise Comparison
+- Dashboard Creation
+
+---
+
+## 📚 Currently Learning
+
+- Machine Learning
+- Statistics
+- Data Warehousing
+- Data Engineering Basics
+- Advanced SQL
+- Azure Data Services
 
 ---
 
 ## 📜 Certifications
 
-* Google IT Support Professional Certificate – Google
-* Information Technology Fundamentals – IBM
-* Introduction to Computers – Microsoft
-* Python for Data Science – IBM
-* Scientific Computing with Python – freeCodeCamp
+- Google IT Support Professional Certificate
+- IBM Python for Data Science
+- IBM IT Fundamentals
+- Microsoft Introduction to Computers
+- freeCodeCamp Scientific Computing with Python
 
 ---
 
-## 🤝 Soft Skills
+## 📊 GitHub Stats
 
-* Communication
-* Teamwork & Collaboration
-* Problem-Solving
-* Time Management
-* Adaptability
-* Active Listening
-* Professional Etiquette
+<p align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
 
-## 🌐 Professional Links
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
 
-📍 **Location:** Malad, Mumbai, Maharashtra
-📧 **Email:** [huzaifashamim302004@gmail.com](mailto:huzaifashamim302004@gmail.com)
-🌐 **Portfolio:** [https://huzaifashamim.onrender.com](https://huzaifashamim.onrender.com)
-🔗 **LinkedIn:** [https://linkedin.com/in/huzaifa-shamim-ahmad](https://linkedin.com/in/huzaifa-shamim-ahmad)
-💻 **GitHub:** [https://github.com/HShamim30](https://github.com/HShamim30)
+</p>
 
 ---
 
-> *Focused on building real-world skills in Endpoint Management, IT Support, and Enterprise Technologies.*
+## 🔥 GitHub Streak
 
-⭐ **Open to IT Support / Intune / System Administrator opportunities**
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&margin-w=15"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: huzaifashamim302004@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/huzaifa-shamim-ahmad/
+- 🌐 Portfolio: https://yourportfolio.com
+
+---
+
+## 💬 Favorite Quote
+
+> **"Without data, you're just another person with an opinion." — W. Edwards Deming**
+
+---
+
+⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
+```
