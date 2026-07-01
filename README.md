@@ -127,17 +127,6 @@
 
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HShamim30&theme=algolia&margin-w=15"/>
-
-</p>
-
----
 
 ## 📜 Certifications
 
